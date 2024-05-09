@@ -3,4 +3,4 @@ The program is an implementation of the above paper by *Farhad Pourkamali-Anarak
 
 Note: The input matrix X in the estimator is assumed to be a zero mean distribution. 
 
-For more details, please refer to the report attached in the repository.
+For more details, please refer to the project proposal and report files attached in the repository.
